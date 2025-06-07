@@ -1,4 +1,4 @@
-OWNERDOMAIN=https://teatimestart.github.io/
+OWNERDOMAIN=teatimestart.github.io
 ironsrc.com, f5a0f624, Direct
 
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
