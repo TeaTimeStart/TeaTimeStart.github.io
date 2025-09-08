@@ -1,6 +1,7 @@
 OWNERDOMAIN=teatimestart.github.io
 ironsrc.com, f5a0f624, DIRECT
 ironsrc.com, 222871, RESELLER, 79929e88b2ba73bc
+facebook.com, 1077407696840158, DIRECT, c3e20eee3f780d68
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 17608, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 15854, RESELLER, 0bfd66d529a55807
